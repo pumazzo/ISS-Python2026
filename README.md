@@ -43,6 +43,7 @@ Frontal lectures combined with hands-on exercises in small groups.
 * Introduction to the course
 * Introduction to programming languages and computer architecture
 * Python as a scientific tool
+[SLIDE](https://docs.google.com/presentation/d/1g0ER0W7Y75tkeTEPHg8Cgkzk8M7mbJleIHw4cerhQ_k/edit?usp=sharing)
 
 ### February 10 and 13, 2026
 

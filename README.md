@@ -49,7 +49,12 @@ Frontal lectures combined with hands-on exercises in small groups.
 ### February 10 and 13, 2026
 
 * Programming language syntax
+  * Variables and Types
+  * Operetation beetween variables
+  * Casting and convertion
+  * List and operation on lists 
 * Hands-on exercises in small groups
+    * Exercise from [LESSON 2 exercises](https://github.com/pumazzo/ISS-Python2026/blob/a5fb9944ac38a8f66af75aaeeb96999219251924/lesson2_final_exercises.ipynb) 1,2 and 3
 
 ### February 17, 2026
 
